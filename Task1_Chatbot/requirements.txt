@@ -1,1 +1,4 @@
-no external libraries required
+# Requirements for Digital Chat Assistant
+Python >= 3.8
+#This project uses only Python built-in functions.
+#No external libraries or packages are required.
