@@ -1,1 +1,4 @@
-abc
+# No external dependencies required
+
+# This project uses only Python built-in features.
+
