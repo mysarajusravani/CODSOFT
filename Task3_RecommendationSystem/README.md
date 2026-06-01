@@ -56,7 +56,7 @@ The system contains a collection of popular Telugu books from different genres s
 
 ## Sample Output
 
-============================================================
+===========================================================
 TELUGU BOOK RECOMMENDATION SYSTEM
 =================================
 
