@@ -31,19 +31,15 @@ The human player uses **X** and the AI uses **O**. The AI evaluates all possible
 3. Open a terminal in the project folder.
 4. Run:
 
-```bash
-python tic_tac_toe_ai.py
-```
 
 ## Sample Board Positions
 
-```
 1 | 2 | 3
 ---------
 4 | 5 | 6
 ---------
 7 | 8 | 9
-```
+
 
 ## Learning Outcomes
 
